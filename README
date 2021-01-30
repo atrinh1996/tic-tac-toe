@@ -1,0 +1,32 @@
+#
+# README
+#
+# Author: Amy B.
+#
+
+PURPOSE
+---------------------------
+    Play a game of tic-tac-toe between two players.
+    Uses python's dictionary and list data types.
+
+ACKNOWLEDGEMENTS
+---------------------------
+    Python exercise taken from:
+        Automate the Boring Stuff with Python
+        By Al Sweigart
+
+FILES
+---------------------------
+    - README:       this file
+    - TicTacToe.py: main program driver.
+
+RUN
+---------------------------
+    Run with:
+        python TicTacToe.py
+
+    - or with a batch file:
+        TicTacToe
+
+BUGS/Notes
+---------------------------
